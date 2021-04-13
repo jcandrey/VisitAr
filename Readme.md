@@ -24,3 +24,4 @@ Aquí encontraremos solo el CRUD de Usuario que permite
 - Registro
 - Login
 - Edit de Perfil e imagen
+- Delete
