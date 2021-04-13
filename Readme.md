@@ -9,7 +9,8 @@ Aplicación Movile desarrollado como proyecto final del segundo Bootcamp Henry. 
 - Apollo
 - Firebase
 - Formik
-  Para el back fue utilizado:
+ 
+ Para el back fue utilizado:
 - NodeJS
 - Mongo
 - Express
