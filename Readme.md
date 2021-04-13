@@ -1,7 +1,8 @@
-VisitAr
+<b>VisitAr</b>
 Movile App
 
 Introducción
+
 Aplicación Movile desarrollado como proyecto final del segundo Bootcamp Henry. Para el desarrollo del front fue utilizado:
 
 - React Native
